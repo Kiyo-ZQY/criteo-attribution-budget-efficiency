@@ -1,0 +1,21 @@
+# Python 与编辑器缓存
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# 原始数据与本地数据库
+data/
+
+# 本地生成的重复报告
+reports/criteo_attribution_report.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
